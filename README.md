@@ -71,7 +71,13 @@ The vehicle is capable of controlled motion in surge, sway, heave, and yaw, ensu
 
 ## 🛠️ Tools & Technologies
 
-Fusion 360 • ROS2 • OpenCV • MAVLink • Raspberry Pi • Pixhawk • 3D Printing
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-orange?style=for-the-badge)
+![ROS2](https://img.shields.io/badge/ROS2-blue?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-purple?style=for-the-badge)
+![MAVLink](https://img.shields.io/badge/MAVLink-yellow?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-green?style=for-the-badge)
+![Pixhawk](https://img.shields.io/badge/Pixhawk-red?style=for-the-badge)
+![Cura](https://img.shields.io/badge/Cura%20(3D%20Printing)-lightgrey?style=for-the-badge)
 
 ---
 
