@@ -41,7 +41,7 @@ The vehicle is capable of controlled motion in surge, sway, heave, and yaw, ensu
 * MAVLink communication
 * OpenCV-based perception
 * QGroundControl for monitoring and mission execution
-
+* 
 ---
 
 ## Contributions
@@ -66,8 +66,15 @@ The vehicle is capable of controlled motion in surge, sway, heave, and yaw, ensu
 * `mechanical-design/` → CAD models and components
 * `system-design/` → full AUV assemblies and iterations
 * `gripper/` → manipulator design
+* `system architecture/` → circuit diagram 
 
 ---
+
+## 📄 Technical Documentation
+
+For a detailed breakdown of system design, hardware architecture, and implementation:
+
+[View Full Technical Report](./Technical_Document_Final.pdf)
 
 ## 🛠️ Tools & Technologies
 
